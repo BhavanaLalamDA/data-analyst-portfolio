@@ -17,8 +17,12 @@ To build a Power BI dashboard for tracking CenterPoint Energy project timelines,
 - Enhanced decision-making speed by 20%
 
 ## 📎 Screenshots
+- centerpoint-energy-powerbi/Finance.png
+- centerpoint-energy-powerbi/Enivromental.png
+- centerpoint-energy-powerbi/Social.png
+
 
 
 ## 📁 Files
 - centerpoint-energy-powerbi/Centerpointenergy.pbix
-- 
+- centerpoint-energy-powerbi/Centerpoint energyreport.docx
