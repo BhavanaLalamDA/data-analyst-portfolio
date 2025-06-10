@@ -1,12 +1,24 @@
-# CenterPoint Energy Dashboard
+# CenterPoint Energy Project Dashboard
 
-## Objective
-Built a Power BI dashboard to track project metrics like cost, risk, and timeline performance.
+## 📊 Objective
+To build a Power BI dashboard for tracking CenterPoint Energy project timelines, risks, and milestones.
 
-## Tools Used
+## 🔧 Tools Used
 - Power BI
 - Excel
 
-## Key Insights
+## 📈 Key Features
+- Conditional formatting
+- Drill-through reports
+- Custom themes for client branding
+
+## 🧠 Key Insights
 - Improved project tracking efficiency by 15%
-- Boosted decision-making speed by 20%
+- Enhanced decision-making speed by 20%
+
+## 📎 Screenshots
+
+
+## 📁 Files
+- centerpoint-energy-powerbi/Centerpointenergy.pbix
+- 
