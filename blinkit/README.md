@@ -23,7 +23,7 @@ It allows stakeholders to filter insights by outlet type, size, item type, and f
 
 ## 📥 Download
 
-- 🔗 [Power BI File – Blinkit Dashboard](./Blinkitdashboard.pbix)
+- 🔗 [Power BI File – Blinkit Dashboard]((https://github.com/BhavanaLalamDA/data-analyst-portfolio/blob/main/blinkit/Blinkit dashboard.pbix)
 
 
 
