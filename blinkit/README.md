@@ -18,11 +18,11 @@ It allows stakeholders to filter insights by outlet type, size, item type, and f
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Dashboard](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/centerpoint-energy-powerbi/blinkit-dashboard.png)
+![Blinkit Dashboard](https://github.com/BhavanaLalamDA/data-analyst-portfolio/blob/main/BlinkIt.png)
 
 ## 📥 Download
 
-- 🔗 [Power BI File – Blinkit Dashboard](./BlinkitDashboard.pbix)
+- 🔗 [Power BI File – Blinkit Dashboard](./Blinkitdashboard.pbix)
 
 
 
