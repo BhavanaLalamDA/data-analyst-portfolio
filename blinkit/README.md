@@ -18,7 +18,8 @@ It allows stakeholders to filter insights by outlet type, size, item type, and f
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Dashboard](https://github.com/BhavanaLalamDA/data-analyst-portfolio/blob/main/BlinkIt.png)
+![Blinkit Dashboard](https://github.com/BhavanaLalamDA/data-analyst-portfolio/blob/main/blinkit/BlinkIt.png)
+
 
 ## 📥 Download
 
